@@ -11,4 +11,4 @@ A ``Floating Menu`` written in ``kotlin`` that uses normal ``TextView & ImageVie
 ## How to use? (You can check attached ``Sample``)
 
 #### Developed by
-### [Abdallah Mohammed](https://github.com/Code95) Mobile Android Developer.
+### [Abdallah Mohammed](https://www.linkedin.com/in/abdallah-mohammed-a5b0ba119/) Mobile Android Developer.
